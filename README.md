@@ -119,9 +119,13 @@ All team members will contribute to software development, experimentation, testi
 **Project Timeline**
 
 Phase 1: Research, GitHub setup, and model selection
+
 Phase 2: Implement basic VLM pipeline
+
 Phase 3: Test prompting strategies and evaluate accuracy
+
 Phase 4: Add audio detection and alert system
+
 Phase 5: Final testing, documentation, and presentation
 
 **References**
