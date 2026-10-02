@@ -62,8 +62,6 @@ Audio → Audio Model → Cry Detection → Alert System
 
 **Hardware / Software Requirements**
 
-**Hardware**
-
 * Laptop
 
 * CUDA-enabled GPU or Google Colab
