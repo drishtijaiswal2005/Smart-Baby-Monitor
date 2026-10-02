@@ -45,15 +45,15 @@ Working VLM image-analysis pipeline.
 **System Blocks**
 
 Image / Video
-      ↓
+      → 
 Preprocessing
-      ↓
+      → 
 Vision-Language Model
-      ↓
+      → 
 Activity Classification
-      ↓
+      → 
 Natural-Language Summary
-      ↓
+      → 
 Alert System
 
 **Optional audio component:**
